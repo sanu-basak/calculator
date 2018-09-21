@@ -1,0 +1,14 @@
+{
+    "name": "sanu/calculator",
+    "description": "its mathematical calculator",
+    "type": "metapackage",
+    "license": "mit licence",
+    "authors": [
+        {
+            "name": "Sanu Basak",
+            "email": "sanu.bhumca2014@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
