@@ -1,7 +1,6 @@
 {
     "name": "sanu/calculator",
     "description": "its mathematical calculator",
-    "type": "metapackage",
     "license": "mit licence",
     "authors": [
         {
