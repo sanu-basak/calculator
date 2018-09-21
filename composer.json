@@ -9,5 +9,17 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Sanu\\Calculator\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Sanu\\Calculator\\CalculatorServiceProvider"
+            ]
+        }
+    }
 }
